@@ -24,3 +24,4 @@ public class recursiveApproach {
         return checkPallindrome(checkPointer+1, inputString, length);
     }
 }
+//Time Complexity = O(n) we are actually checking till half of the string length.
