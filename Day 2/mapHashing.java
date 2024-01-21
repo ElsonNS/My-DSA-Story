@@ -46,3 +46,4 @@ public class mapHashing {
         sc.close();
     }
 }
+//It is more space otmized approach and there is no problem with any value of arrays
