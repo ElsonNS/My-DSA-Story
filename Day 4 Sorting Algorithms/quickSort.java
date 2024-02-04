@@ -52,3 +52,5 @@ public class quickSort {
         return j;
     }
 }
+//Time Complexity -> O(nlogn)
+//It is more space optimized than merge sort SC-> O(1)
