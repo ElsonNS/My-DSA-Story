@@ -38,4 +38,4 @@ public class selectionSort {
         System.out.println();
     }
 }
-
+// TC -> O(n square)
